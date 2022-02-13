@@ -1,4 +1,10 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\BugIt_fel",
+    "\\BugIt_fel\\BugIt",
+    "\\BugIt_fel\\BugIt\\Database"
+  ],
+  "SelectedNode": "\\BugIt_fel\\BugIt\\Database\\BugContext.cs",
   "PreviewInSolutionExplorer": false
 }
